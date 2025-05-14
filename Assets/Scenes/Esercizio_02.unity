@@ -133,7 +133,7 @@ GameObject:
   - component: {fileID: 37863147}
   - component: {fileID: 37863148}
   m_Layer: 0
-  m_Name: Esercizio_01
+  m_Name: Esercizio_02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

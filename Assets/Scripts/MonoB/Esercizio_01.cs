@@ -17,9 +17,9 @@ public class Esercizio_01 : MonoBehaviour
 
         }
 
-        foreach (var p in ammo)
+        foreach (var spd in ammo)
         {
-            p.Lancia();
+            spd.Lancia();
         }
 
     }
