@@ -5,14 +5,9 @@ using UnityEngine;
 public abstract class Proiettile
 {
 
-    float spd = 0f;
-
-
-    {
-       public abstract Lancia(_spd)
-        {
-
-        }
-    }
+   public float spd;
+    public abstract void Lancia();
+     
+    
 
 }
